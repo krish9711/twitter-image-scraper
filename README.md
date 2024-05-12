@@ -1,3 +1,2 @@
 # twitter-image-scraper
-Twitter Image Scraper using Node JS
-dummy
+Twitter Image Scraper using Node.js
